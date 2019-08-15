@@ -33,5 +33,5 @@ function dateDiff(startingDate, endingDate) {
 }
 
 var pElement = document.getElementById('bio');
-pElement.innerHTML = `Estudante nordestino de ${dateDiff('1994-11-04')} anos, natural da cidade de Arapiraca, cidade polo do estado de Alagoas. Atualmente está cursando Tecnologia de Sistemas para Internet no Instituto
+pElement.innerHTML = `Estudante nordestino de ${dateDiff('1994-11-04')} anos, natural da cidade de Arapiraca, cidade polo do estado de Alagoas. Atualmente está cursando Tecnologia de Sistemas para Internet desde 2017 no Instituto
 Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte Campus Currais Novos.`;
